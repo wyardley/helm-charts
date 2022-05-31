@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 2.33.8
+
+* Allow cross-DCA communication in DCA `NetworkPolicy` and `CiliumNetworkPolicy`
+
 ## 2.33.7
 
 * Fix inaccurate documentation example for `datadog.kubeStateMetricsCore.labelsAsTags`.
